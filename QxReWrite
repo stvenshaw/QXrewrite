@@ -4,7 +4,4 @@
 #掌上英雄联盟
 ^https?:\/\/us\.l\.qq\.com\/exapp url reject-200
 
-#万源阅读
-https://raw.githubusercontent.com/Yu9191/Rewrite/main/wanyuanyuedu.js
-
 hostname=midc.cdn-static.abchina.com.cn, us.l.qq.com
