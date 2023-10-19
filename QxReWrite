@@ -4,4 +4,20 @@
 #掌上英雄联盟
 ^https?:\/\/us\.l\.qq\.com\/exapp url reject-200
 
-hostname=midc.cdn-static.abchina.com.cn, us.l.qq.com
+#网易有道词典
+##翻译广告
+^https:\/\/dict\.youdao\.com\/course\/tab\/translateTab url reject-dict
+##听读训练
+^https:\/\/dict\.youdao\.com\/homepage\/tile url reject-dict
+##首次查词弹窗
+^https:\/\/api-overmind\.youdao\.com\/openapi\/get\/luna\/dict\/dict-mobile\/prod\/dictCommonConfig url reject-dict
+##首页弹窗
+^https:\/\/cdke\.youdao\.com\/course3\/recommend\/dict\/startup url reject-dict
+##搜索预想
+^https:\/\/dict\.youdao\.com\/commonsearch url reject-dict
+##会员优惠券弹窗
+^https:\/\/dict\.youdao\.com\/vip\/activity\/couponinfo url reject-dict
+##首页左上角福利中心
+^https:\/\/dict\.youdao\.com\/dictusertask\/system url reject-dict
+
+hostname=midc.cdn-static.abchina.com.cn, us.l.qq.com, dict.youdao.com, api-overmind.youdao.com, cdke.youdao.com
