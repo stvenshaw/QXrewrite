@@ -1,5 +1,5 @@
 #> 黄油
-USER-AGENT,rpproject
+USER-AGENT,rpproject*
 DOMAIN-SUFFIX,mossorp.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,rpfans.net
