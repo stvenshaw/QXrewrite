@@ -5,3 +5,16 @@ DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,zijieapi.com
+
+#> WeChat
+
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+
+
+#> WeChat
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,huya.com
