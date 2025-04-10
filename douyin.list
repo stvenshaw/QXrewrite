@@ -30,3 +30,8 @@ DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,alicdn.com
+
+#> Baidu
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,becbos.com
+DOMAIN-SUFFIX,bdstatic.com
