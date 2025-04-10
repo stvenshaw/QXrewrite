@@ -1,5 +1,4 @@
-#> DouYin
-
+#> Type Dance
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -10,19 +9,19 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,fqnovelpic.com
 
-#> WeChat
 
+#> Tencent
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,mmbiz.qpic.cn
-
-
-#> WeChat
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,huya.com
 
-#> alibaba
+#> Alibaba
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,elemecdn.com
