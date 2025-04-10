@@ -18,3 +18,13 @@ DOMAIN-SUFFIX,mmbiz.qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,huya.com
+
+#> alibaba
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,alicdn.com
