@@ -41,3 +41,10 @@ DOMAIN-SUFFIX,bdstatic.com
 #> sina
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
+
+#> MiHoYo
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,mihoyo.com
+
+#> ChinaMobile
+DOMAIN-SUFFIX,cmpassport.com
