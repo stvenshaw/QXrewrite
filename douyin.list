@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,bdstatic.com
 #> sina
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
 
 #> MiHoYo
 DOMAIN-SUFFIX,miyoushe.com
