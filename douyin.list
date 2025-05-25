@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,mihoyo.com
 #> ChinaMobile
 DOMAIN-SUFFIX,cmpassport.com
 
+#> Apple
+DOMAIN-SUFFIX,apple.com
+
 #> Other
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ks-live.com
