@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,cmpassport.com
 #> Apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,cdn-apple.com
 
 #> Other
 DOMAIN-SUFFIX,qishui.com
