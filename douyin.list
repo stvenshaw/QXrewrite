@@ -14,9 +14,7 @@ DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,fqnovelvod.com
 DOMAIN-SUFFIX,fqnovelstatic.com
-DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,doubao.com
 
 #> Tencent
@@ -58,3 +56,5 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,xycdn.com
